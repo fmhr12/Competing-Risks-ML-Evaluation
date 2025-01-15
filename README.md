@@ -1,4 +1,4 @@
-# Machine Learning Framework using Fine-Gray for Competing Risks Model Evaluation
+# Machine Learning Framework using Fine-Gray for Competing Risks 
 
 ## Overview
 
